@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GrpcServiceDemo
+build_property.ProjectDir = D:\MVC C#\demogQPC\GrpcServiceDemo\
