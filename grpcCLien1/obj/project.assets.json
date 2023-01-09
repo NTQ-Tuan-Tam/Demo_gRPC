@@ -379,11 +379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC C#\\demogQPC\\grpcCLien1\\grpcCLien1.csproj",
+      "projectUniqueName": "D:\\MVC C#\\demogRPC\\grpcCLien1\\grpcCLien1.csproj",
       "projectName": "grpcCLien1",
-      "projectPath": "D:\\MVC C#\\demogQPC\\grpcCLien1\\grpcCLien1.csproj",
+      "projectPath": "D:\\MVC C#\\demogRPC\\grpcCLien1\\grpcCLien1.csproj",
       "packagesPath": "C:\\Users\\tuan.vu2\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC C#\\demogQPC\\grpcCLien1\\obj\\",
+      "outputPath": "D:\\MVC C#\\demogRPC\\grpcCLien1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
